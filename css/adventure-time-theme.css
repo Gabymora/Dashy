@@ -403,8 +403,8 @@ a.logo span {
     margin-left: 0px;
 }
 
-.sidebar-closed #sidebar {		
-    margin-left: -210px;
+.sidebar-closed #sidebar {		/*por fin.. es para q cuando se haga pequeno, se oculte el menu.. (lo odie)*/
+    margin-left: -210px !important;
 }
 
 /*.......................... parte de dashboard...........................................*/
